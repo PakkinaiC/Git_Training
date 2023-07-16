@@ -1,1 +1,2 @@
 This is Sameple File 1
+This is Compare lecture
