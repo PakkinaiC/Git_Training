@@ -2,3 +2,4 @@ GIT Rever Commit1
 
 This is Sameple File 2
 This is Compare lecture, Change in File2
+This is Stash lecture, Change in File 2
