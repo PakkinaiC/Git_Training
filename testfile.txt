@@ -9,3 +9,5 @@ Test git fetch
 Test git pull
 
 Test rebase 1
+
+Test rebase 2
