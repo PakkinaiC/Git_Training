@@ -13,3 +13,4 @@ Test rebase 1
 Test rebase 2
 
 git merge 1
+git merge 2
