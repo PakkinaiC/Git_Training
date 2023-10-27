@@ -14,3 +14,6 @@ Test rebase 2
 
 git merge 1
 git merge 2
+
+
+Git revert32
